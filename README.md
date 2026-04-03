@@ -78,3 +78,12 @@ java -cp out com.narxoz.rpg.Main
 1. All Java source files with TODOs implemented
 2. `Main.java` demonstrating both patterns
 3. Two UML class diagrams (Command hierarchy, Chain of Responsibility hierarchy)
+
+### Command
+![Command](diagram/Command.png)
+
+### ChainOfResponsibility
+![ChainOfResponsibility](diagram/ChainOfResponsibility.png)
+
+## Ссылка на код
+https://github.com/zarina-kulm/homework-rpg-6
